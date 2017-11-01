@@ -1,0 +1,30 @@
+body {
+	background-image: url(techbg.jpg) no-repeat center fixed, url(Profilepic.jpg) center repeat;
+	background-size: cover;
+	
+}
+
+
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 1000px;
+}
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+p { 
+	font-family: oblique;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+ }
+
+
+
+
+
